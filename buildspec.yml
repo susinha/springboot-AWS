@@ -19,4 +19,4 @@ phases:
 
 artifacts:
   files:
-    - target\todo-rest-api-h2-0.0.1-SNAPSHOT.jar
+    - target/todo-rest-api-h2-0.0.1-SNAPSHOT.jar
